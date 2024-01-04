@@ -1,0 +1,28 @@
+
+*{
+    background-color: aquamarine;
+}
+img{
+    max-width: 320px;
+    float: none;
+    border: 3px solid #fff;
+    border-radius: ;
+}
+
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+
+
+
+div{
+    background-color: aquamarine;
+
+}
+button{
+    border-color: brown solid;
+    margin: 0%;
+    padding: 0%;
+
+}
